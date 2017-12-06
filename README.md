@@ -1,2 +1,5 @@
 # git_training
-Test repo for ecodata
+
+Test repo for data training
+
+Good practices for colab science
